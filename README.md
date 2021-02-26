@@ -1,2 +1,2 @@
 # Python
-School Homework &amp; Creating Web Scrapper!
+School Homework &amp; Creating Web Scrapper
